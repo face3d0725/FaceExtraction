@@ -6,9 +6,13 @@ FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extractio
 
 # Requirements
 PyTorch > 1.6.0
+
 [Segmentation Models](https://github.com/qubvel/segmentation_models.pytorch)
+
 PIL
+
 cv2
+
 numpy 
 
 # How to use 
