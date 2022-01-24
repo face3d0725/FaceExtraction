@@ -30,6 +30,7 @@ Code and dataset for
 Predicted face mask shown in blue: 
 
 ![From top to the bottom: input images, predicted masks, ground truth](results/show_1.png)
+From top to the bottom: input images, predicted masks, ground truth. 
 
 
 # Citation
