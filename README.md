@@ -27,6 +27,7 @@ Code and dataset for
 [Pretrained Model](https://drive.google.com/file/d/11cOc1KJnkR6hNp1l0vnMmCDxGTOCtsEb/view?usp=sharing)
 
 # Citation
+```
 @misc{yin2022faceocc,
       title={FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction}, 
       author={Xiangnan Yin and Liming Chen},
@@ -35,3 +36,4 @@ Code and dataset for
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
