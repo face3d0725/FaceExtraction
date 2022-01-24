@@ -2,7 +2,7 @@
 
 Code and dataset for 
 
-FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction
+[FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction](https://arxiv.org/pdf/2201.08425.pdf)
 
 # Requirements
 * PyTorch > 1.6.0
@@ -23,3 +23,7 @@ FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extractio
 
 # Pretrained Model
 [Pretrained Model](https://drive.google.com/file/d/11cOc1KJnkR6hNp1l0vnMmCDxGTOCtsEb/view?usp=sharing)
+
+# Citation
+
+
