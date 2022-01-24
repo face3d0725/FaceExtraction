@@ -27,10 +27,9 @@ Code and dataset for
 [Pretrained Model](https://drive.google.com/file/d/11cOc1KJnkR6hNp1l0vnMmCDxGTOCtsEb/view?usp=sharing)
 
 # Results
-Predicted face mask shown in blue: 
-
+Face masks are shown in blue. From top to bottom are input images, predicted masks, and the ground truth: 
 ![From top to the bottom: input images, predicted masks, ground truth](results/show_1.png)
-From top to the bottom: input images, predicted masks, ground truth. 
+
 
 
 # Citation
