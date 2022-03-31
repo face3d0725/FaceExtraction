@@ -41,3 +41,4 @@ Face masks are shown in blue. From top to bottom are input images, predicted mas
       primaryClass={cs.CV}
 }
 ```
+# Our paper is accepted by (TAIMA2022)[http://www.arts-pi.org.tn/TAIMA2020/] 
