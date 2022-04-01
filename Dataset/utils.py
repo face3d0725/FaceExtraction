@@ -3,10 +3,13 @@ from torchvision.utils import make_grid
 import numpy as np
 
 
-def get_face_mask(mask):
+def get_face_mask(mask, eye_glass=False):
     mask = torch.from_numpy(mask)
-    mask = (mask > 0) * (mask < 11) * (~(mask == 4)) # facial attributes except eyeglasses
-    return mask
+    if not eye_glass:
+        mask = (mask > 0) * (mask < 11) * (~(mask == 4)) # facial attributes except eyeglasses
+    else:
+        mask = (mask>0)*(mask<11) # for manually labeled eyeglass images, do not use the mask of CelebAMask-HQ
+    return mask.type(torch.float32)
 
 
 def tensor2img(tensor):
