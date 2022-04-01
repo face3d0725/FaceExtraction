@@ -42,8 +42,8 @@ loss_dice = DiceLoss().to(DEVICE)
 
 def criterion(pred, gt):
     bce = loss_bce(pred, gt)
-    dice = loss_dice(pred, gt)
-    return bce + dice
+    # dice = loss_dice(pred, gt)
+    return bce
     # return dice
 
 
