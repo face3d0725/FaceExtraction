@@ -121,7 +121,7 @@ class FaceMask(Data.Dataset):
         with open(mask_pth, 'rb') as f:
             mask = pickle.load(f)
 
-        mask = get_face_mask(mask) * (1 - mask_occ)
+        mask = get_face_mask(mask, eye_glass=True) * (1 - mask_occ)
         data = {'img': rgb, 'mask': mask}
         data = self.transform(data)
         I, mask = data['img'], data['mask']
