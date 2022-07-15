@@ -31,13 +31,39 @@ Face masks are shown in blue. From top to bottom are input images, predicted mas
 ![From top to the bottom: input images, predicted masks, ground truth](results/show_1.png)
 
 
+# Related Works
+* **CelebA** dataset:<br/>
+Ziwei Liu, Ping Luo, Xiaogang Wang and Xiaoou Tang, "Deep Learning Face Attributes in the Wild", in IEEE International Conference on Computer Vision (ICCV), 2015 
+* **CelebA-HQ** was collected from CelebA and further post-processed by the following paper :<br/>
+Karras et. al, "Progressive Growing of GANs for Improved Quality, Stability, and Variation", in Internation Conference on Reoresentation Learning (ICLR), 2018
+* **CelebAMask-HQ** dataset:<br />
+Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping, "Maskgan: Towards diverse and interactive facial image manipulation", in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020
 
-# Citation
+
+# Dataset Agreement
+* The FaceOcc dataset is available for **non-commercial research purposes** only.
+* You agree **not to** reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+* You agree **not to** further copy, publish or distribute any portion of the CelebAMask-HQ dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+
+
+# License and Citation
+The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
+
 ```
-@inproceedings{yin2022faceocc,
-      title={FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction}, 
-      author={Xiangnan Yin and Liming Chen},
-      booktitle={TAIMA 2022: Traitement et Analyse de l'Information M{\'e}thodes et Applications},
-      year={2022},
+@article{yin2022faceocc,
+  title={FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction},
+  author={Yin, Xiangnan and Chen, Liming},
+  journal={arXiv preprint arXiv:2201.08425 (accepted by TAIMA2022)},
+  year={2022}
+  
 }
+
+
+@article{yin2022non,
+  title={Non-Deterministic Face Mask Removal Based On 3D Priors},
+  author={Yin, Xiangnan and Chen, Liming},
+  journal={arXiv preprint arXiv:2202.09856 (accepted by ICIP 2022)},
+  year={2022}
+}
+
 ```
