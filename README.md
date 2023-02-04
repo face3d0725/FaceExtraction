@@ -48,22 +48,25 @@ Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping, "Maskgan: Towards d
 
 # License and Citation
 The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
-
+If you use the related dataset, please cite the following papers:
 ```
-@article{yin2022faceocc,
+@inproceedings{yin2022faceocc,
   title={FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction},
-  author={Yin, Xiangnan and Chen, Liming},
-  journal={arXiv preprint arXiv:2201.08425 (accepted by TAIMA2022)},
+  author={Yin,Xiangnan and Chen, Liming},
+  booktitle={Traitement et Analyse de l’Information Méthodes et Applications (TAIMA’2022), 28 May-02 June 2022, Hammamet, Tunisia},
+  pages={1--10},
   year={2022}
   
 }
 
 
-@article{yin2022non,
+@inproceedings{yin2022non,
   title={Non-Deterministic Face Mask Removal Based On 3D Priors},
-  author={Yin, Xiangnan and Chen, Liming},
-  journal={arXiv preprint arXiv:2202.09856 (accepted by ICIP 2022)},
-  year={2022}
+  author={Yin, Xiangnan and Huang, Di and Chen, Liming},
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+  pages={2137--2141},
+  year={2022},
+  organization={IEEE}
 }
 
 ```
