@@ -46,9 +46,16 @@ Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping, "Maskgan: Towards d
 * You agree **not to** further copy, publish or distribute any portion of the CelebAMask-HQ dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
 
+
 # License and Citation
 The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
-If you use the related dataset, please cite the following papers:
+
+If you use our dataset, please cite it as: 
+
+>Xiangnan YIN, Liming Chen, “FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction”, Traitement et Analyse de l’Information Méthodes et Applications (TAIMA’2022), 28 May-02 June 2022, Hammamet, Tunisia, ArXiv : 2201.08425. HAL : hal-03540753.
+
+or
+
 ```
 @inproceedings{yin2022faceocc,
   title={FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction},
@@ -59,14 +66,5 @@ If you use the related dataset, please cite the following papers:
   
 }
 
-
-@inproceedings{yin2022non,
-  title={Non-Deterministic Face Mask Removal Based On 3D Priors},
-  author={Yin, Xiangnan and Huang, Di and Chen, Liming},
-  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
-  pages={2137--2141},
-  year={2022},
-  organization={IEEE}
-}
 
 ```
