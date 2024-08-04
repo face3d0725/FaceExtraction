@@ -56,8 +56,11 @@ For more details about the MIT License, please see [the full text](https://opens
 If you use our dataset, please cite our following works: 
 
 >Xiangnan YIN, Liming Chen, “FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction”, Traitement et Analyse de l’Information Méthodes et Applications (TAIMA’2022), 28 May-02 June 2022, Hammamet, Tunisia, ArXiv : 2201.08425. HAL : hal-03540753.
+
 >Xiangnan YIN, Di Huang, Zehua Fu, Yunhong Wang, Liming Chen, Segmentation-Reconstruction-Guided Facial Image De-occlusion, 17th IEEE Intl. Conference on Automatic Face and Gesture Recognition 2023 (FG’2023), January 5-8, 2023, Hawaiii, USA. Find the video presentation [here](https://youtu.be/meQHBwWM2i0).
->Xiangnan YIN, Di Huang, Zehua Fu, Yunhong Wang, Liming Chen, Weakly Supervised Photo-Realistic Texture Generation for 3D Face Reconstruction, 17th IEEE Intl. Conference on Automatic Face and Gesture Recognition 2023 (FG’2023), January 5-8, 2023, Hawaiii, USA. Find the video presentation [here](https://youtu.be/PPdLKDI-xyk). 
+
+>Xiangnan YIN, Di Huang, Zehua Fu, Yunhong Wang, Liming Chen, Weakly Supervised Photo-Realistic Texture Generation for 3D Face Reconstruction, 17th IEEE Intl. Conference on Automatic Face and Gesture Recognition 2023 (FG’2023), January 5-8, 2023, Hawaiii, USA. Find the video presentation [here](https://youtu.be/PPdLKDI-xyk).
+
 >Xiangnan Yin, Di Huang, Liming Chen, “Non-Deterministic Face Mask Removal Based on 3D Priors”, 2022 IEEE International Conference on Image Processing (ICIP), Bordeaux, France, 16-19 October 2022. Find the video presentation [here](https://youtu.be/pspJsAq8rww). 
 
 
