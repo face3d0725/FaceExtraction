@@ -40,31 +40,24 @@ Karras et. al, "Progressive Growing of GANs for Improved Quality, Stability, and
 Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping, "Maskgan: Towards diverse and interactive facial image manipulation", in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020
 
 
-# Dataset Agreement
-* The FaceOcc dataset is available for **non-commercial research purposes** only.
-* You agree **not to** reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
-* You agree **not to** further copy, publish or distribute any portion of the CelebAMask-HQ dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+# License
+
+This dataset as well as the pretrained face extraction model is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the data, as well as to permit persons to whom the data is furnished to do so, subject to the following conditions:
+
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the data.
+- The data is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the data or the use or other dealings in the data.
+
+For more details about the MIT License, please see [the full text](https://opensource.org/licenses/MIT).
 
 
 
-# License and Citation
-The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
+# Citation
 
-If you use our dataset, please cite it as: 
+If you use our dataset, please cite our following works: 
 
 >Xiangnan YIN, Liming Chen, “FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction”, Traitement et Analyse de l’Information Méthodes et Applications (TAIMA’2022), 28 May-02 June 2022, Hammamet, Tunisia, ArXiv : 2201.08425. HAL : hal-03540753.
-
-or
-
-```
-@inproceedings{yin2022faceocc,
-  title={FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction},
-  author={Yin,Xiangnan and Chen, Liming},
-  booktitle={Traitement et Analyse de l’Information Méthodes et Applications (TAIMA’2022), 28 May-02 June 2022, Hammamet, Tunisia},
-  pages={1--10},
-  year={2022}
-  
-}
+>Xiangnan YIN, Di Huang, Zehua Fu, Yunhong Wang, Liming Chen, Segmentation-Reconstruction-Guided Facial Image De-occlusion, 17th IEEE Intl. Conference on Automatic Face and Gesture Recognition 2023 (FG’2023), January 5-8, 2023, Hawaiii, USA. Find the video presentation [here](https://youtu.be/meQHBwWM2i0).
+>Xiangnan YIN, Di Huang, Zehua Fu, Yunhong Wang, Liming Chen, Weakly Supervised Photo-Realistic Texture Generation for 3D Face Reconstruction, 17th IEEE Intl. Conference on Automatic Face and Gesture Recognition 2023 (FG’2023), January 5-8, 2023, Hawaiii, USA. Find the video presentation [here](https://youtu.be/PPdLKDI-xyk). 
+>Xiangnan Yin, Di Huang, Liming Chen, “Non-Deterministic Face Mask Removal Based on 3D Priors”, 2022 IEEE International Conference on Image Processing (ICIP), Bordeaux, France, 16-19 October 2022. Find the video presentation [here](https://youtu.be/pspJsAq8rww). 
 
 
-```
